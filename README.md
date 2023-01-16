@@ -3,10 +3,10 @@ This repository will contain various Python projects done throughout The Tech Ac
 <br>
 <h2>Projects:</h2>
   <ul>
-    <li><a href="https://github.com/Stevo1998/Python-Projects/blob/main/Nice_or_Mean_Game"></a>Nice or Mean Game</li>
-    <li><a href="">https://github.com/Stevo1998/Python-Projects/blob/main/File_Transfer</a>File Transfer GUI</li>
+    <li><a href="https://github.com/Stevo1998/Python-Projects/blob/main/Nice_or_Mean_Game">Nice or Mean Game</a></li>
+    <li><a href="">https://github.com/Stevo1998/Python-Projects/blob/main/File_TransferFile Transfer GUI</a></li>
     <li><a href="https://github.com/Stevo1998/Python-Projects/tree/main/Phonebook_Assignment">Phonebook</a></li>
-    <li><a href="https://github.com/Stevo1998/Python-Projects/tree/main/Web%20Page%20Generator"></a>Web Page Generator</li>
+    <li><a href="https://github.com/Stevo1998/Python-Projects/tree/main/Web%20Page%20Generator">Web Page Generator</a></li>
   </ul>
 <br>
 <h3>Nice or mean Game</h3>
