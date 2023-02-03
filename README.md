@@ -10,7 +10,8 @@ This repository will contain various Python projects done throughout The Tech Ac
   </ul>
 <br>
 <h3>Nice or mean Game</h3>
-  <p>In this project a game was created where the program will ask the user numerous questions where they'll have to answer in a nice  or mean way. The pregram will remeber the users name as well as their score, and after the score reaches a certain number, the program will tell the user if they won or lost as well as ask if they'll like to play again.
+  <p>In this project a game was created where the program will ask the user numerous questions where they'll have to answer in a nice  or mean way. The pregram will remeber the users name as well as their score, and after the score reaches a certain number, the program will tell the user if they won or lost as well as ask if they'll like to play again.</p>
+<br>
 <h3>File Transfer GUI</h3>
   <p>This project was created usint the tkinter module. The  program allows the user to tranfer .txt files that have been updated within the last 24 hours from one directory to another. The program will also tell the users which files have been succesfully tranfered and which have not.</p>
  <br>
